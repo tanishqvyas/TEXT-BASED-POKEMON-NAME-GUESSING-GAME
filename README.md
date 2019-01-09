@@ -44,7 +44,9 @@ cd example_directory
 	If you see output like this, Python is already installed. But most likely it is not. So…let’s install Python.
 	
 	Installing Python 3
-	Go to the downloads section of the official Python website. Download the installer and make sure to click the box on the bottom of the page for the Add Python 		3.7 to PATH option, which will let use use python directly from terminal. Otherwise we’d have to enter our system’s full path and modify our environment 		variables manually. In other words, it’ll be a nightmare. Trust me. Check click the box and you’ll save yourself a world of headache.
+	Go to the downloads section of the official Python website. Download the installer and make sure to click the box on the bottom of the page for the Add Python
+	3.7 to PATH option, which will let use use python directly from terminal. Otherwise we’d have to enter our system’s full path and modify our environment
+	variables manually. In other words, it’ll be a nightmare. Trust me. Check click the box and you’ll save yourself a world of headache.
 
 	Python Installer
 
