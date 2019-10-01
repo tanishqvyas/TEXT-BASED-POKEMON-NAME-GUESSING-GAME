@@ -10,7 +10,7 @@ Download/Clone the repository by clicking onto the " GREEN " button.
 
 Just run the below given command in your terminal in order to get a copy of the repository on your pc :
 
-git clone https://github.com/tanishqvyas/TEXT-BASED-POKEMON-NAME-GUESSING-GAME.git
+git clone https://github.com/tanishqvyas/TEXT-BASED-POKEMON-NAME-GUESSING-GAME.git or using ssh-> git@github.com:tanishqvyas/TEXT-BASED-POKEMON-NAME-GUESSING-GAME.git
 
 #HOW DOES THAT WORK ?
 
