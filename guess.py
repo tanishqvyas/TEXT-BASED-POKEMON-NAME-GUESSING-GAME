@@ -83,6 +83,7 @@ def play_preparation():
 	play(word,length,visual_list)
 
 def menu():
+	global life
 	clearscreen()
 	print()
 	print("      MENU       ")
