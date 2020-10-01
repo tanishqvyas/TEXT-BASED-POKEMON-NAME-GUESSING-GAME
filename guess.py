@@ -4,7 +4,7 @@ import os
 import random
 import time
 
-l = ["gyarados","victreebell","rayquaza","venusaur","blastoise","vaporeon","charizard","garchomp"]
+l = ["gyarados","victreebell","rayquaza","venusaur","blastoise","vaporeon","charizard","garchomp","alakazam"]
 life = 7
 
 def play(word,length,visual_list):
@@ -83,7 +83,7 @@ def play_preparation():
 	play(word,length,visual_list)
 
 def menu():
-	global life
+        global life
 	clearscreen()
 	print()
 	print("      MENU       ")
@@ -111,7 +111,7 @@ def menu():
 		clearscreen()
 		slow_type("EXITING THE GAME.................",s=0.2)
 		sys.exit()
-
-clearscreen()
-slow_type("    WELCOME TO THE POKEMON NAME GUESSING GAME    ",s=0.22)
-menu()   #CALLING THE MENU FUNCTION TO DISPLAY MENU
+if __name__ == "__main__":
+        clearscreen()
+        slow_type("    WELCOME TO THE POKEMON NAME GUESSING GAME    ",s=0.22)
+        menu()   #CALLING THE MENU FUNCTION TO DISPLAY MENU
